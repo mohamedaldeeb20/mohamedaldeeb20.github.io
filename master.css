@@ -13,9 +13,12 @@ nav h2 {
     align-items: center;
     color: #FFFFFF;
     font-size: 35px;
+    margin: auto;
     position: absolute;
-    left: 38%;
-    top: 50px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 .squares{
     height: 100vh;
