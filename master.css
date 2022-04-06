@@ -11,9 +11,8 @@ nav h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #FFFFFF;
+    color: #009688de;
     font-size: 35px;
-    margin: auto;
     position: absolute;
     left: 38%;
     top: 50px;
